@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_Router_Quiz_app/static/css/main.a9a4347b.css",
+    "main.js": "/React_Router_Quiz_app/static/js/main.dfc09ae9.js",
+    "index.html": "/React_Router_Quiz_app/index.html",
+    "main.a9a4347b.css.map": "/React_Router_Quiz_app/static/css/main.a9a4347b.css.map",
+    "main.dfc09ae9.js.map": "/React_Router_Quiz_app/static/js/main.dfc09ae9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9a4347b.css",
+    "static/js/main.dfc09ae9.js"
+  ]
+}
